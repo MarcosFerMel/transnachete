@@ -2218,6 +2218,7 @@ input, select, textarea {
 
 			#header h1 a {
 				color: inherit;
+				font-size:0.9em;
 			}
 
 		#header .button {
